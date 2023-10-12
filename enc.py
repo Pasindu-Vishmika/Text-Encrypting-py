@@ -19,3 +19,4 @@ def encrypt(text):
 text=input("Enter Text you want to encrypt : ")
 encrypt(text)
 print(encrypted)
+input()
